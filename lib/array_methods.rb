@@ -11,13 +11,19 @@
 
 #another way to solve!  
 
+#def find_element_index(array, value_to_find)
+#  array.length.times do |count|
+#    if array[count] ==  value_to_find
+#      return count
+#    end
+#    nil
+#  end
+#end
+
+#ANOTHER WAY TO SOLVE! 
+
 def find_element_index(array, value_to_find)
-  array.length.times do |count|
-    if array[count] ==  value_to_find
-      return count
-    end
-    nil
-  end
+  
 end
 
   
