@@ -16,8 +16,8 @@
 #    if array[count] == value_to_find
 #      return count
 #    end
-#    nil
 #  end
+#   nil
 #end
 
 #ANOTHER WAY TO SOLVE! #google find index ruby!
