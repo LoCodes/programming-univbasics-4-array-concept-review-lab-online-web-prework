@@ -3,12 +3,9 @@ def find_element_index(array, value_to_find)
   
   while cout < array.legth do
   
-  array.index 
-    
-    
-  
   array.index(value_to_find)
   
+  count += 1 
  
   
   i = 0 
