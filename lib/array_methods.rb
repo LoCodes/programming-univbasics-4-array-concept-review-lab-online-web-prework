@@ -5,7 +5,6 @@ def find_element_index(array, value_to_find)
   array.index(value_to_find[count])
   
   count += 1 
- 
 
   # Add your solution here
 end
