@@ -17,7 +17,7 @@
 #      return count
 #    end
 #  end
-#   nil
+# nil
 #end
 
 #ANOTHER WAY TO SOLVE! #google find index ruby!
