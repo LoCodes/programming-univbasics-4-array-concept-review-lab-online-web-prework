@@ -3,6 +3,7 @@ def find_element_index(array, value_to_find)
   
   while cout < array.legth do
     
+    
   
   array.index(value_to_find)
   
