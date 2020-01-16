@@ -12,7 +12,7 @@
 #another way to solve!  
 def find_elemetn_index(array, value_to_find)
   array.length.times do |count|
-    
+    if array[count]
   
 end
 
