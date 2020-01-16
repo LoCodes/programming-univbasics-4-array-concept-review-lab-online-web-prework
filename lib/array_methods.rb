@@ -1,16 +1,17 @@
 def find_element_index(array, value_to_find)
-  count = 0 
+  count = 0    # Add your solution here
   while count < array.length do 
     if array[count] == value_to_find
       reutn count
     end
     count += 1 
   end 
- end
- nil 
-
-  # Add your solution here
+  nil
 end
+
+
+  
+
 
 def find_max_value(array)
   # Add your solution here
