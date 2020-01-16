@@ -10,7 +10,9 @@
 #end
 
 #another way to solve!  
-
+def find_elemetn_index(array, value_to_find)
+  
+end
 
   
 
