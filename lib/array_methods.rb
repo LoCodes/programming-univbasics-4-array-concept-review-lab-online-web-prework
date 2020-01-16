@@ -31,7 +31,8 @@ end
 
 def find_max_value(array)
   # Add your solution here
-  array.length { |index|
+  array.length.times { |index|
+  }
 end
 
 
