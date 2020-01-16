@@ -31,6 +31,7 @@ end
 
 def find_max_value(array)
   # Add your solution here
+  x = 5 
   array.length.times { |index|
   if array[index] > 1 
 end
