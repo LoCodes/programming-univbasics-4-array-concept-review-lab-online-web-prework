@@ -31,8 +31,7 @@ end
 
 def find_max_value(array)
   # Add your solution here
-  array.max_by do |count|
-  element.field
+  array.length { |
 end
 
 
