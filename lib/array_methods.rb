@@ -4,7 +4,7 @@ def find_element_index(array, value_to_find)
   i = 0 
   
   while i < numbers.size 
-  result [i] = numbers [i]
+  result [i] == numbers [i]
   
   i += 1
   # Add your solution here
